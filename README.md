@@ -23,7 +23,9 @@ Build | Link
 0.5.19 #23 | https://www.joesandbox.com/analysis/225428/0/html
 
 \
-There is also another version - **COVID Safe Paths** - that has been published on Google Play Store by a non-profit partner (Path Checks Inc.). It doesn't support Bluetooth proximity tracing / interaction history. It relies only in location trail matching with risk-area heatmaps provided by Health Authorities.
+There is also another version - **COVID Safe Paths** - that has been published on Google Play Store by a non-profit partner (Path Checks Inc.). 
+
+It doesn't support Bluetooth proximity tracing / interaction history. It relies only in location trail matching with risk-area heatmaps provided by Health Authorities.
 
 Play Store | https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths
 -----------|---------------------------------------------------------------------------
